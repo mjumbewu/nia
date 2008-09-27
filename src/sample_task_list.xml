@@ -1,0 +1,7 @@
+<xml>
+  <task 
+    id         ="task1"
+    label      ="spss -> connect to oracle on vm"
+    description="Figure out how to make SPSS interface directly with an oracle
+                 database.">
+    

@@ -1,0 +1,13 @@
+## Process this file with automake to produce Makefile.in
+## Created by Anjuta
+
+## The main script
+bin_SCRIPTS = nia.py
+
+## Directory where .class files will be installed
+niadir = $(pythondir)/nia
+
+nia_PYTHON = \
+	nia.py\
+	niatreeview.py \
+	cli.py
