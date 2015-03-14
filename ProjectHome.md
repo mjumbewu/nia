@@ -1,0 +1,1 @@
+Nia is a personal organization tool concerned with keeping your plans in line with your core values -- those things that you feel are realy important in your life.  Nia is a Swahili wordl that means purpose.
